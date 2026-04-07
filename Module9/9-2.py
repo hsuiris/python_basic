@@ -1,12 +1,7 @@
 # 從模組 import 特定函式
+from myModule import get_discount
 
-
-# 計算幾次方
-
-
-
-
-
-# 簡單斷句
+result = get_discount(4300)
+print(result)
 
 
